@@ -90,7 +90,7 @@ Bu proje, COVID-19 ve varyantlarının kıtalar arası yayılımını ve etkiler
 
 ## Özellikler
 1. **Varyant Analizi**:
-   - Wuhan Varyantı (R0: 2.4-3.4)
+   - Daha Ölümcül Varyantı (R0: 2.4-3.4)
    - Daha Bulaşıcı Varyant (R0: 5-6)
 
 2. **Kıtalar Arası Dinamikler**:
