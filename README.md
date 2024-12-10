@@ -83,7 +83,6 @@ This project is licensed under the MIT License.
 ## Contact 📬
 For any questions or suggestions, feel free
 -------------------------------------------------------------------------------------------------------------------------------------------
-## 🇹🇷
 # 🇹🇷 COVID-19 Varyantlarının Kıtalar Arası SIRD Modeli ile Simülasyonu 🌍💉
 
 ## Proje Hakkında
