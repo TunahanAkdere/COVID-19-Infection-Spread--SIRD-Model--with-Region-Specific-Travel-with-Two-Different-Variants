@@ -24,7 +24,7 @@ Bu proje, COVID-19 ve varyantlarının kıtalar arası yayılımını ve etkiler
 ## Kullanılan Teknolojiler
 - **Python**: NumPy, Pandas, Matplotlib, Plotly
 - **Modelleme**: SIRD Modeli
-- **Veri Analizi**: Rastgele parametreler ve Monte Carlo simülasyonu
+- **Veri Analizi**: Monte Carlo simülasyonu
 
 ## Projenin Kurulumu
 1. **Bağımlılıkların Yüklenmesi**:
