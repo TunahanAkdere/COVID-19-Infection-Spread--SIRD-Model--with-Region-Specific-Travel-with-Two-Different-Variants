@@ -6,7 +6,7 @@ This project aims to simulate the spread and impact of COVID-19 and its variants
 
 ## Features ✨
 1. **Variant Analysis**:
-   - Wuhan Variant (R0: 2.4-3.4)
+   - More Lethal Variant  (R0: 2.4-3.4)
    - More Contagious Variant (R0: 5-6)
 
 2. **Intercontinental Dynamics**:
