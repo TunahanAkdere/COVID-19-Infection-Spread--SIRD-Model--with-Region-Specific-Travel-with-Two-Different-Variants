@@ -163,4 +163,4 @@ Bu proje, COVID-19 ve varyantlarının kıtalar arası yayılımını ve etkiler
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ## İletişim
-Herhangi bir soru veya öneriniz için lütfen proje sahibine ulaşın.
+Herhangi bir soru veya öneriniz için lütfen iletişime geçin.
