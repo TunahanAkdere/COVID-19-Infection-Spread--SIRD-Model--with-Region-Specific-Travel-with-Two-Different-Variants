@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 ## Contact 📬
 For any questions or suggestions, feel free
 -------------------------------------------------------------------------------------------------------------------------------------------
-# COVID-19 Varyantlarının Kıtalar Arası SIRD Modeli ile Simülasyonu
+# 🇹🇷 COVID-19 Varyantlarının Kıtalar Arası SIRD Modeli ile Simülasyonu 🌍💉
 
 ## Proje Hakkında
 Bu proje, COVID-19 ve varyantlarının kıtalar arası yayılımını ve etkilerini **SIRD (Susceptible-Infected-Recovered-Deceased)** modelini kullanarak simüle etmeyi amaçlamaktadır. Model, salgının bulaşıcılık oranı (R0), iyileşme oranı (gamma), bulaşma katsayısı (beta) ve ölüm oranları gibi parametrelerin salgın dinamiklerine etkisini analiz eder. Aynı zamanda, seyahat kısıtlamalarının ve varyant farklılıklarının küresel yayılım üzerindeki etkileri de incelenmiştir.
